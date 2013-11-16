@@ -1,6 +1,6 @@
 **To install Teradata on a 64 bit Centos based system.**
 
-  - Clone the entire package from the git repo git@gitlab.ukroi.tesco.org:teradata14.git
+  - Clone the entire package from the git repo git@github.com:kengimel/teradata14.git
 
 Change into the TDICU directory and install the rpm version.
 
